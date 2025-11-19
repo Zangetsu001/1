@@ -1,0 +1,361 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EduMaster.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EduMaster.zool98yi4g.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\css\\login_and_registration.css",
+      "PackagePath": "staticwebassets\\css\\login_and_registration.css"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\css\\shared.css",
+      "PackagePath": "staticwebassets\\css\\shared.css"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\img\\Designer.jpeg",
+      "PackagePath": "staticwebassets\\img\\Designer.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\img\\command.jpg",
+      "PackagePath": "staticwebassets\\img\\command.jpg"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\img\\course1.jpg",
+      "PackagePath": "staticwebassets\\img\\course1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\img\\course2.jpg",
+      "PackagePath": "staticwebassets\\img\\course2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\img\\course3.jpg",
+      "PackagePath": "staticwebassets\\img\\course3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\img\\course4.jpg",
+      "PackagePath": "staticwebassets\\img\\course4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\img\\fon.jpg",
+      "PackagePath": "staticwebassets\\img\\fon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\img\\fon.webp",
+      "PackagePath": "staticwebassets\\img\\fon.webp"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\img\\google.jpg",
+      "PackagePath": "staticwebassets\\img\\google.jpg"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\img\\log.jpg",
+      "PackagePath": "staticwebassets\\img\\log.jpg"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\img\\partner1.jpg",
+      "PackagePath": "staticwebassets\\img\\partner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\img\\partner2.jpg",
+      "PackagePath": "staticwebassets\\img\\partner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\img\\partner3.jpg",
+      "PackagePath": "staticwebassets\\img\\partner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\img\\partner4.jpg",
+      "PackagePath": "staticwebassets\\img\\partner4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\img\\platform_dashboard.jpg",
+      "PackagePath": "staticwebassets\\img\\platform_dashboard.jpg"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\img\\services.jpg",
+      "PackagePath": "staticwebassets\\img\\services.jpg"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\img\\yandex.jpg",
+      "PackagePath": "staticwebassets\\img\\yandex.jpg"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\js\\home_script.js",
+      "PackagePath": "staticwebassets\\js\\home_script.js"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\js\\login_and_registration_script.js",
+      "PackagePath": "staticwebassets\\js\\login_and_registration_script.js"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\js\\shared_script.js",
+      "PackagePath": "staticwebassets\\js\\shared_script.js"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\js\\write_message_script.js",
+      "PackagePath": "staticwebassets\\js\\write_message_script.js"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\qdedm\\OneDrive\\Рабочий стол\\Уч.практика\\EduMaster\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EduMaster.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EduMaster.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EduMaster.props",
+      "PackagePath": "build\\EduMaster.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EduMaster.props",
+      "PackagePath": "buildMultiTargeting\\EduMaster.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EduMaster.props",
+      "PackagePath": "buildTransitive\\EduMaster.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
